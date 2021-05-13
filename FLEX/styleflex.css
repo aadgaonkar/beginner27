@@ -1,0 +1,44 @@
+body{ text-align: center;
+    background-color: rgb(246, 238, 220);
+}
+h1{
+    padding:15px;
+    font-family:"Great Vibes", cursive;
+    text-align: center;
+    margin-left:65px;
+    color:rgb(61, 37, 22);
+}
+ul{
+   
+     margin: auto;
+    width:80%;
+    max-width: 400px;
+    padding-bottom: 15px;
+    
+}
+li {
+    
+    margin-bottom: 10px;
+    padding:20px;
+    background-color:rgba(160, 121, 97, 0.386); 
+   /* box-shadow: 0px 0px 2px; */
+   box-shadow: 0 5px 6px rgba(0,0,0,0.15);;
+   font-size: 15px;
+ display:flex;
+ 
+}
+.hey{
+  border-radius: 5px;
+    flex-shrink:0;
+    text-align: center;
+    width:200px;
+    margin-top: 10px;
+   
+}
+.content{ 
+    text-align: center;
+    flex-grow: 1;
+    font-family:cursive;
+    margin-left: 10px;
+}
+
